@@ -6,7 +6,6 @@ import math
 
 client = RemoteAPIClient()
 sim = client.require('sim')
-simIM = client.require('simIM')
 
 sim.setStepping(True)
 
