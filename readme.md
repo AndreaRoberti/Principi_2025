@@ -32,7 +32,14 @@ python3 -m pip install coppeliasim-zmqremoteapi-client
 python3 -m pip install numpy
 ```
 
+```sh
+python3 -m pip install scipy
+```
 
 ```sh
 python3 -m pip install opencv-python
+```
+
+```sh
+python3 -m pip install matplotlib
 ```
